@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
     int unit;
     float amt, total_amt, sur_charge;

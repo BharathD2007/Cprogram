@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
+    
     float x, y, z;
-
     printf("Enter x coordinate: ");
     scanf("%f", &x);
 

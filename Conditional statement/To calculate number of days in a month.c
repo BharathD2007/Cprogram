@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+    
     int month;
     scanf("%d", &month);
     if(month<0 || month>12){

@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main() {
-
     int enteredPIN, correctPIN = 1234;
     float balance, withdrawal;
 

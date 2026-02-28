@@ -2,7 +2,6 @@
 int main() {
     float total_score, total_overs;
     float run_rate, percentage;
-    
     printf("Enter total score: ");
     scanf("%f", &total_score);
 

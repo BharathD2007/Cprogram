@@ -13,7 +13,6 @@ int main() {
     }
     else {
         printf("Invalid gender entered.\n");
-        return 1;
     }
     if (hours <= 8) {
         salary = hours * base_rate;
@@ -21,6 +20,4 @@ int main() {
         salary = (8 * base_rate) + ((hours - 8) * 100);
     }
     printf("Total Salary = Rs. %.2f\n", salary);
-
-    return 0;
 }
